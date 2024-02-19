@@ -1,0 +1,6 @@
+import cn.hutool.core.img.gif.AnimatedGifEncoder;
+public class FunctionUse2177 {
+public void funcUse() {
+AnimatedGifEncoder animatedgifencoder = new AnimatedGifEncoder();
+}
+}
